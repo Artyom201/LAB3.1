@@ -1,8 +1,8 @@
 #include <UnitTest++/UnitTest++.h>
-#include </home/ilya/Lab1/Lab1/modAlphaCipher.h>
-#include </home/ilya/Lab1/Lab1/modAlphaCipher.cpp>
-#include </home/ilya/Lab1/Lab12/CesarDop.h>
-#include </home/ilya/Lab1/Lab12/CesarDop.cpp>
+#include </home/Artyom/Lab1/Lab1/modAlphaCipher.h>
+#include </home/Artyom/Lab1/Lab1/modAlphaCipher.cpp>
+#include </home/Artyom/Lab1/Lab12/CesarDop.h>
+#include </home/Artyom/Lab1/Lab12/CesarDop.cpp>
 
 string wstost (const wstring ws1) //переводит широкую строку в обычную для использования макроса CHECK_EQUAL
 {
